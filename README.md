@@ -1,7 +1,7 @@
 # FIFA-2019-Data-Exploration
 
 
-The notebook does some basic data processing of the raw dataset which includes imputing of missing values.
+The notebook does some 
 notebook uses basic graph plots to plot the data.
 Pandas profiling is used for finding the correlation between variables.
 # Problem Statement
@@ -11,9 +11,10 @@ Find attached the Dataset, extract the contents and place the path on your noteb
 
 # Approach
 The basic Data Cleaning is done using python packages like Numpy,Pandas and Pandas Profiling.
+Basic data processing of the raw dataset which includes imputing of missing values.
 Data visualization is done using Seaborn,Matplotlib and Wordcloud. Exploratory Data Analysis is done to find relations between variables.
 
 # Real world Uses
 This Analysis can be used by football clubs to check player performance and rate the player accordingly.
-Determining the price of the Player by referring to statistics of the player.
+Determining the price of the Player by referring to the statistics of the player.
 Arrive at a Data driven decision to buy a player or not.
